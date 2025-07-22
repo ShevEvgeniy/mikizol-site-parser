@@ -1,4 +1,4 @@
-#🧠 Mikizol Site Parser & RAG Exporter
+# 🧠 Mikizol Site Parser & RAG Exporter
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -61,5 +61,3 @@ python clean_md_to_json_and_markdown.py
 ```
 
 ---
-
-

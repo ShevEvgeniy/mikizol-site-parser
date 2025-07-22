@@ -1,6 +1,10 @@
-# 🧠 Mikizol Website Parser & RAG Data Preparer
+#🧠 Mikizol Site Parser & RAG Exporter
 
-Скрипты для автоматического парсинга сайта [mikizol.ru], очистки текста и подготовки данных для обучения LLM или RAG-систем.
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+
+Инструмент для парсинга сайта [mikizol.ru](https://mikizol.ru), структурирования контента и подготовки данных для RAG, ChatGPT, LangChain или других LLM-систем.
 
 ---
 
@@ -58,10 +62,4 @@ python clean_md_to_json_and_markdown.py
 
 ---
 
-## 🧠 Mikizol Site Parser & RAG Exporter
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
-
-Инструмент для парсинга сайта [mikizol.ru](https://mikizol.ru), структурирования контента и подготовки данных для RAG, ChatGPT, LangChain или других LLM-систем.

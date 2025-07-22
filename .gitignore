@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.swp
+
+# VS Code
+.vscode/
+
+# Data
+urls.txt
+mikizol_by_category.md
+mikizol_clean.json
+mikizol_clean.md
+
+# System
+.DS_Store
+Thumbs.db
